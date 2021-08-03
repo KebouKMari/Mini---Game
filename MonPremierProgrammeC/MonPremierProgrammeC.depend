@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1627992433 source:m:\monprogrammec\monpremierprogrammec\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+
+1627994832 source:m:\monprogrammec\jeuplusmoinspourdebutant_cprog\monpremierprogrammec\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
